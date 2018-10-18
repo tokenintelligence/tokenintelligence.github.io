@@ -1169,6 +1169,12 @@ i:before {
   padding-right: 5px;
 }
 
+@media (max-width: 991px) {
+  .text_3d {
+    padding-left: 0 !important;
+  }
+}
+
 .text_3d p {
   font-size: 15px;
   line-height: 28px;

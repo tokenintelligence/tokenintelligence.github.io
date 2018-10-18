@@ -1162,7 +1162,7 @@ i:before {
 
 .text_3d {
   display: inline-block;
-  padding-left: 80px;
+  padding-left: 175px !important;
   padding-top: 150px;
   width: 54%;
   float: left;
@@ -2371,10 +2371,6 @@ i:before {
 
 .tp-bullet {
   display: none !important;
-}
-
-.text_3d {
-  padding-left: 250px;
 }
 
 .text_3d img, .text_3d h5{
